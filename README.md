@@ -1,4 +1,1 @@
-
-
-
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=franciscoramonsp)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=franciscoramonsp&count={count})
